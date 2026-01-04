@@ -61,4 +61,3 @@ This project explains and demonstrates logistic regression for sentiment analysi
 - Use log1p on token counts to reduce skewness.
 
 ---
-If you'd like, I can proceed to (1) update `log_reg.ipynb` to add an IMDB pipeline and model comparison cells, (2) add `requirements.txt`, and (3) add a `Dockerfile` and test the notebook runs in the container. Would you like me to continue with these changes? 🚀
