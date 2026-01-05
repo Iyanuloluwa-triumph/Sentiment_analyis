@@ -7,3 +7,5 @@ seaborn
 joblib
 jupyterlab
 notebook
+Cython
+setuptools
